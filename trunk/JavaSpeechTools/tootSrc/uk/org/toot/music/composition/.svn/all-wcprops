@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/music/composition
+END
+BarContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/music/composition/BarContext.java
+END
+AbstractComposer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/music/composition/AbstractComposer.java
+END
+BarComposer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/music/composition/BarComposer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/music/composition/package.html
+END
+TonalComposer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/music/composition/TonalComposer.java
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/120/trunk/JavaSpeechTools/srcTootServers/uk/org/toot/audio/server
+END
+TimeReferenceMultiIOJavaSoundAudioServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/uk/org/toot/audio/server/TimeReferenceMultiIOJavaSoundAudioServer.java
+END
+AudioSyncLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/uk/org/toot/audio/server/AudioSyncLine.java
+END
+MultiIOJavaSoundAudioServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/uk/org/toot/audio/server/MultiIOJavaSoundAudioServer.java
+END
+DefaultStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/uk/org/toot/audio/server/DefaultStrategy.java
+END
+ExtendedAudioServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/uk/org/toot/audio/server/ExtendedAudioServer.java
+END
+AudioLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/uk/org/toot/audio/server/AudioLine.java
+END
+TimedAudioServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/uk/org/toot/audio/server/TimedAudioServer.java
+END
+AbstractAudioServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/uk/org/toot/audio/server/AbstractAudioServer.java
+END
+SpinningTimingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/uk/org/toot/audio/server/SpinningTimingStrategy.java
+END
+JavaSoundAudioServerSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/uk/org/toot/audio/server/JavaSoundAudioServerSetup.java
+END
+TootAudioServerServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/uk/org/toot/audio/server/TootAudioServerServiceProvider.java
+END
+AudioTimingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/uk/org/toot/audio/server/AudioTimingStrategy.java
+END
+WaitTimingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/uk/org/toot/audio/server/WaitTimingStrategy.java
+END
+YieldTimingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/uk/org/toot/audio/server/YieldTimingStrategy.java
+END
+ExtendedAudioServerConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/uk/org/toot/audio/server/ExtendedAudioServerConfiguration.java
+END
+Strategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/uk/org/toot/audio/server/Strategy.java
+END
+JavaSoundAudioServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/120/trunk/JavaSpeechTools/srcTootServers/uk/org/toot/audio/server/JavaSoundAudioServer.java
+END
+SleepTimingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/uk/org/toot/audio/server/SleepTimingStrategy.java
+END

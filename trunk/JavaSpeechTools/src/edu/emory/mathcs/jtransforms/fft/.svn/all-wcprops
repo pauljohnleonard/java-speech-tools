@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/95/trunk/JavaSpeechTools/src/edu/emory/mathcs/jtransforms/fft
+END
+FloatFFT_1D.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/95/trunk/JavaSpeechTools/src/edu/emory/mathcs/jtransforms/fft/FloatFFT_1D.java
+END
+DoubleFFT_1D.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/95/trunk/JavaSpeechTools/src/edu/emory/mathcs/jtransforms/fft/DoubleFFT_1D.java
+END

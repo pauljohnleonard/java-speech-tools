@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/com/frinika/toot/javasoundmultiplexed
+END
+JavaSoundAudioLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/com/frinika/toot/javasoundmultiplexed/JavaSoundAudioLine.java
+END
+StereoInConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/com/frinika/toot/javasoundmultiplexed/StereoInConnection.java
+END
+StereoOutConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/com/frinika/toot/javasoundmultiplexed/StereoOutConnection.java
+END
+JavaSoundDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/com/frinika/toot/javasoundmultiplexed/JavaSoundDevice.java
+END
+DeviceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/com/frinika/toot/javasoundmultiplexed/DeviceManager.java
+END
+MonoInConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/com/frinika/toot/javasoundmultiplexed/MonoInConnection.java
+END
+MultiplexedJavaSoundAudioServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/com/frinika/toot/javasoundmultiplexed/MultiplexedJavaSoundAudioServer.java
+END
+JavaSoundInDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/com/frinika/toot/javasoundmultiplexed/JavaSoundInDevice.java
+END
+JavaSoundOutDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/com/frinika/toot/javasoundmultiplexed/JavaSoundOutDevice.java
+END

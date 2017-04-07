@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/META-INF/services
+END
+uk.org.toot.swingui.audioui.serverui.spi.AudioServerUIServiceProvider
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/META-INF/services/uk.org.toot.swingui.audioui.serverui.spi.AudioServerUIServiceProvider
+END
+uk.org.toot.audio.server.spi.AudioServerServiceProvider
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/META-INF/services/uk.org.toot.audio.server.spi.AudioServerServiceProvider
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/tool
+END
+ToolServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/tool/ToolServiceProvider.java
+END
+MonoControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/tool/MonoControls.java
+END
+FormatControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/tool/FormatControls.java
+END
+NaNTectorProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/tool/NaNTectorProcess.java
+END
+NoiseProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/tool/NoiseProcess.java
+END
+ToolIds.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/tool/ToolIds.java
+END
+SineProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/tool/SineProcess.java
+END
+DenormalProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/tool/DenormalProcess.java
+END
+NaNTectorControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/tool/NaNTectorControls.java
+END
+NoiseControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/tool/NoiseControls.java
+END
+SineControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/tool/SineControls.java
+END
+DenormalControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/tool/DenormalControls.java
+END
+MonoProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/tool/MonoProcess.java
+END
+FormatProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/tool/FormatProcess.java
+END

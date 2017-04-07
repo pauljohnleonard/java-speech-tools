@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/127/trunk/JavaSpeechTools/src/speech/gui
+END
+ReadImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/45/trunk/JavaSpeechTools/src/speech/gui/ReadImage.java
+END
+DrawGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/19/trunk/JavaSpeechTools/src/speech/gui/DrawGraph.java
+END
+ConfusionPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/127/trunk/JavaSpeechTools/src/speech/gui/ConfusionPanel.java
+END
+Mapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/JavaSpeechTools/src/speech/gui/Mapper.java
+END
+DrawSpectHist.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/38/trunk/JavaSpeechTools/src/speech/gui/DrawSpectHist.java
+END
+DrawLips.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/44/trunk/JavaSpeechTools/src/speech/gui/DrawLips.java
+END
+DrawHist.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/49/trunk/JavaSpeechTools/src/speech/gui/DrawHist.java
+END
+ValMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38/trunk/JavaSpeechTools/src/speech/gui/ValMapper.java
+END
+DrawTract.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/44/trunk/JavaSpeechTools/src/speech/gui/DrawTract.java
+END
+MeterPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/trunk/JavaSpeechTools/src/speech/gui/MeterPanel.java
+END
+AnalyserPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/JavaSpeechTools/src/speech/gui/AnalyserPanel.java
+END
+DrawHist1.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/49/trunk/JavaSpeechTools/src/speech/gui/DrawHist1.java
+END
+DrawHist2.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/55/trunk/JavaSpeechTools/src/speech/gui/DrawHist2.java
+END
+DrawScrollingSpect.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/122/trunk/JavaSpeechTools/src/speech/gui/DrawScrollingSpect.java
+END
+MakeFrames.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/125/trunk/JavaSpeechTools/src/speech/gui/MakeFrames.java
+END
+AppBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/122/trunk/JavaSpeechTools/src/speech/gui/AppBase.java
+END

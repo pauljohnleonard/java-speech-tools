@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/126/trunk/JavaSpeechTools/src/speech/spectral
+END
+JRSpectrumToFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/125/trunk/JavaSpeechTools/src/speech/spectral/JRSpectrumToFeature.java
+END
+MelSpectrumToFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/125/trunk/JavaSpeechTools/src/speech/spectral/MelSpectrumToFeature.java
+END
+NNSpectralFeatureDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/126/trunk/JavaSpeechTools/src/speech/spectral/NNSpectralFeatureDetector.java
+END
+RealTimeAudioSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/126/trunk/JavaSpeechTools/src/speech/spectral/RealTimeAudioSource.java
+END
+AndroidRealTimeAudioSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/105/trunk/JavaSpeechTools/src/speech/spectral/AndroidRealTimeAudioSource.java
+END
+SampledToSpectral.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/125/trunk/JavaSpeechTools/src/speech/spectral/SampledToSpectral.java
+END
+DataProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/125/trunk/JavaSpeechTools/src/speech/spectral/DataProcess.java
+END
+AndroidAudioServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/105/trunk/JavaSpeechTools/src/speech/spectral/AndroidAudioServer.java
+END
+TootRealTimeAudioSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/126/trunk/JavaSpeechTools/src/speech/spectral/TootRealTimeAudioSource.java
+END
+RawSpectrumToFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/125/trunk/JavaSpeechTools/src/speech/spectral/RawSpectrumToFeature.java
+END

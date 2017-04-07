@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/music/timing
+END
+ConventionalTimingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/music/timing/ConventionalTimingStrategy.java
+END
+TimingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/music/timing/TimingStrategy.java
+END
+AbstractTimingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/music/timing/AbstractTimingStrategy.java
+END
+JazzyTimingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/music/timing/JazzyTimingStrategy.java
+END
+Timing.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/music/timing/Timing.java
+END

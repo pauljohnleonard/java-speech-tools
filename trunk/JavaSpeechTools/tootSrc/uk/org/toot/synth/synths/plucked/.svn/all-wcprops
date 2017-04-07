@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/synths/plucked
+END
+PluckedSynthServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/synths/plucked/PluckedSynthServiceProvider.java
+END
+SixStringGuitarControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/synths/plucked/SixStringGuitarControls.java
+END
+FourStringBassGuitarControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/synths/plucked/FourStringBassGuitarControls.java
+END
+PluckedSynth.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/synths/plucked/PluckedSynth.java
+END
+PluckedSynthControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/synths/plucked/PluckedSynthControls.java
+END

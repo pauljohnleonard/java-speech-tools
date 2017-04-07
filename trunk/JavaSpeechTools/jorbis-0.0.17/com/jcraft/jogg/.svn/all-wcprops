@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jogg
+END
+Packet.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jogg/Packet.java
+END
+Buffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jogg/Buffer.java
+END
+StreamState.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jogg/StreamState.java
+END
+Page.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jogg/Page.java
+END
+SyncState.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jogg/SyncState.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/JavaSpeechTools/lib/amd64/Linux
+END
+libpriority.so
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/JavaSpeechTools/lib/amd64/Linux/libpriority.so
+END
+libjjack.so
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/JavaSpeechTools/lib/amd64/Linux/libjjack.so
+END

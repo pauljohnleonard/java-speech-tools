@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/misc
+END
+TimeSignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/misc/TimeSignature.java
+END
+History.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/misc/History.java
+END
+Localisation.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/misc/Localisation.java
+END
+ChangeSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/misc/ChangeSupport.java
+END
+Tempo.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/misc/Tempo.java
+END
+UndoableCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/misc/UndoableCommand.java
+END
+VstSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/misc/VstSetup.java
+END
+IObservable.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/misc/IObservable.java
+END

@@ -1,0 +1,809 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs
+END
+8_training_uhh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/8_training_uhh.wav
+END
+9_training_ooh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/9_training_ooh.wav
+END
+6_training_err.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/6_training_err.wav
+END
+1_training_ahh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/1_training_ahh.wav
+END
+4_training_eee.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/4_training_eee.wav
+END
+10_training_uhh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/10_training_uhh.wav
+END
+1_training_ehh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/1_training_ehh.wav
+END
+11_training_ooh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/11_training_ooh.wav
+END
+9_training_ahh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/9_training_ahh.wav
+END
+10_testing_err.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/10_testing_err.wav
+END
+11_testing_err.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/11_testing_err.wav
+END
+9_training_ehh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/9_training_ehh.wav
+END
+11_training_ahh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/11_training_ahh.wav
+END
+1_training_uhh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/1_training_uhh.wav
+END
+11_training_ehh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/11_training_ehh.wav
+END
+2_training_ooh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/2_training_ooh.wav
+END
+1_testing_err.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/1_testing_err.wav
+END
+2_testing_err.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/2_testing_err.wav
+END
+9_training_uhh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/9_training_uhh.wav
+END
+3_testing_err.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/3_testing_err.wav
+END
+4_testing_err.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/4_testing_err.wav
+END
+7_training_err.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/7_training_err.wav
+END
+5_testing_err.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/5_testing_err.wav
+END
+6_testing_err.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/6_testing_err.wav
+END
+7_testing_err.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/7_testing_err.wav
+END
+2_training_ahh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/2_training_ahh.wav
+END
+8_testing_err.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/8_testing_err.wav
+END
+5_training_eee.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/5_training_eee.wav
+END
+9_testing_err.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/9_testing_err.wav
+END
+training_silence.wav
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/training_silence.wav
+END
+2_training_ehh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/2_training_ehh.wav
+END
+11_training_uhh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/11_training_uhh.wav
+END
+2_training_uhh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/2_training_uhh.wav
+END
+3_training_ooh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/3_training_ooh.wav
+END
+8_training_err.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/8_training_err.wav
+END
+3_training_ahh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/3_training_ahh.wav
+END
+6_training_eee.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/6_training_eee.wav
+END
+3_training_ehh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/3_training_ehh.wav
+END
+10_training_err.wav
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/10_training_err.wav
+END
+10_testing_eee.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/10_testing_eee.wav
+END
+11_testing_eee.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/11_testing_eee.wav
+END
+3_training_uhh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/3_training_uhh.wav
+END
+4_training_ooh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/4_training_ooh.wav
+END
+1_training_err.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/1_training_err.wav
+END
+9_training_err.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/9_training_err.wav
+END
+1_testing_eee.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/1_testing_eee.wav
+END
+2_testing_eee.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/2_testing_eee.wav
+END
+3_testing_eee.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/3_testing_eee.wav
+END
+4_training_ahh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/4_training_ahh.wav
+END
+4_testing_eee.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/4_testing_eee.wav
+END
+7_training_eee.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/7_training_eee.wav
+END
+5_testing_eee.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/5_testing_eee.wav
+END
+6_testing_eee.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/6_testing_eee.wav
+END
+7_testing_eee.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/7_testing_eee.wav
+END
+4_training_ehh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/4_training_ehh.wav
+END
+8_testing_eee.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/8_testing_eee.wav
+END
+9_testing_eee.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/9_testing_eee.wav
+END
+11_training_err.wav
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/11_training_err.wav
+END
+4_training_uhh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/4_training_uhh.wav
+END
+5_training_ooh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/5_training_ooh.wav
+END
+2_training_err.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/2_training_err.wav
+END
+5_training_ahh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/5_training_ahh.wav
+END
+8_training_eee.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/8_training_eee.wav
+END
+5_training_ehh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/5_training_ehh.wav
+END
+10_training_eee.wav
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/10_training_eee.wav
+END
+5_training_uhh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/5_training_uhh.wav
+END
+6_training_ooh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/6_training_ooh.wav
+END
+3_training_err.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/3_training_err.wav
+END
+1_training_eee.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/1_training_eee.wav
+END
+6_training_ahh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/6_training_ahh.wav
+END
+9_training_eee.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/9_training_eee.wav
+END
+10_testing_ooh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/10_testing_ooh.wav
+END
+11_testing_ooh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/11_testing_ooh.wav
+END
+6_training_ehh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/6_training_ehh.wav
+END
+11_training_eee.wav
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/11_training_eee.wav
+END
+10_testing_ahh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/10_testing_ahh.wav
+END
+11_testing_ahh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/11_testing_ahh.wav
+END
+10_testing_ehh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/10_testing_ehh.wav
+END
+1_testing_ooh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/1_testing_ooh.wav
+END
+11_testing_ehh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/11_testing_ehh.wav
+END
+2_testing_ooh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/2_testing_ooh.wav
+END
+3_testing_ooh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/3_testing_ooh.wav
+END
+6_training_uhh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/6_training_uhh.wav
+END
+4_testing_ooh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/4_testing_ooh.wav
+END
+5_testing_ooh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/5_testing_ooh.wav
+END
+7_training_ooh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/7_training_ooh.wav
+END
+4_training_err.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/4_training_err.wav
+END
+6_testing_ooh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/6_testing_ooh.wav
+END
+7_testing_ooh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/7_testing_ooh.wav
+END
+8_testing_ooh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/8_testing_ooh.wav
+END
+9_testing_ooh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/9_testing_ooh.wav
+END
+2_training_eee.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/2_training_eee.wav
+END
+1_testing_ahh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/1_testing_ahh.wav
+END
+2_testing_ahh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/2_testing_ahh.wav
+END
+3_testing_ahh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/3_testing_ahh.wav
+END
+4_testing_ahh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/4_testing_ahh.wav
+END
+5_testing_ahh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/5_testing_ahh.wav
+END
+1_testing_ehh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/1_testing_ehh.wav
+END
+10_testing_uhh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/10_testing_uhh.wav
+END
+7_training_ahh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/7_training_ahh.wav
+END
+2_testing_ehh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/2_testing_ehh.wav
+END
+6_testing_ahh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/6_testing_ahh.wav
+END
+11_testing_uhh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/11_testing_uhh.wav
+END
+3_testing_ehh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/3_testing_ehh.wav
+END
+7_testing_ahh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/7_testing_ahh.wav
+END
+8_testing_ahh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/8_testing_ahh.wav
+END
+4_testing_ehh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/4_testing_ehh.wav
+END
+9_testing_ahh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/9_testing_ahh.wav
+END
+5_testing_ehh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/5_testing_ehh.wav
+END
+7_training_ehh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/7_training_ehh.wav
+END
+6_testing_ehh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/6_testing_ehh.wav
+END
+7_testing_ehh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/7_testing_ehh.wav
+END
+8_testing_ehh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/8_testing_ehh.wav
+END
+9_testing_ehh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/9_testing_ehh.wav
+END
+1_testing_uhh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/1_testing_uhh.wav
+END
+2_testing_uhh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/2_testing_uhh.wav
+END
+3_testing_uhh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/3_testing_uhh.wav
+END
+4_testing_uhh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/4_testing_uhh.wav
+END
+5_testing_uhh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/5_testing_uhh.wav
+END
+7_training_uhh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/7_training_uhh.wav
+END
+6_testing_uhh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/6_testing_uhh.wav
+END
+5_training_err.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/5_training_err.wav
+END
+8_training_ooh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/8_training_ooh.wav
+END
+7_testing_uhh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/7_testing_uhh.wav
+END
+8_testing_uhh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/8_testing_uhh.wav
+END
+9_testing_uhh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/9_testing_uhh.wav
+END
+3_training_eee.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/3_training_eee.wav
+END
+testing_silence.wav
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/testing_silence.wav
+END
+10_training_ooh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/10_training_ooh.wav
+END
+8_training_ahh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/8_training_ahh.wav
+END
+8_training_ehh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/8_training_ehh.wav
+END
+10_training_ahh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/10_training_ahh.wav
+END
+10_training_ehh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/10_training_ehh.wav
+END
+1_training_ooh.wav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/JavaSpeechToolData/validationwavs/1_training_ooh.wav
+END

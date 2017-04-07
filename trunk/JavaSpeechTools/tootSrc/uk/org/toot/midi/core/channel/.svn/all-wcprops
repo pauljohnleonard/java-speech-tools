@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/core/channel
+END
+ChannelReadWriteMidiInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/core/channel/ChannelReadWriteMidiInput.java
+END
+MidiChannelWriterProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/core/channel/MidiChannelWriterProvider.java
+END
+DefaultMidiChannelReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/core/channel/DefaultMidiChannelReader.java
+END
+ChannelWriteMidiOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/core/channel/ChannelWriteMidiOutput.java
+END
+MidiChannelWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/core/channel/MidiChannelWriter.java
+END
+MidiChannelReaderProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/core/channel/MidiChannelReaderProvider.java
+END
+DefaultMidiChannelWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/core/channel/DefaultMidiChannelWriter.java
+END
+MidiChannelReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/core/channel/MidiChannelReader.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/core
+END
+ConnectedMidiSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/core/ConnectedMidiSystem.java
+END
+DefaultMidiSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/core/DefaultMidiSystem.java
+END
+MidiTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/core/MidiTransport.java
+END
+DefaultConnectedMidiSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/core/DefaultConnectedMidiSystem.java
+END
+MidiDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/core/MidiDevice.java
+END
+MidiConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/core/MidiConnection.java
+END
+MidiInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/core/MidiInput.java
+END
+MidiOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/core/MidiOutput.java
+END
+AbstractMidiDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/core/AbstractMidiDevice.java
+END
+LegacyDevices.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/core/LegacyDevices.java
+END
+MidiSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/core/MidiSystem.java
+END
+MidiPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/core/MidiPort.java
+END
+DefaultMidiOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/core/DefaultMidiOutput.java
+END

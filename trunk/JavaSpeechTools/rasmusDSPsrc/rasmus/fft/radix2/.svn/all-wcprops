@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/radix2
+END
+OpFFT32.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/radix2/OpFFT32.java
+END
+OpGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/radix2/OpGenerator.java
+END
+OpFFT16.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/radix2/OpFFT16.java
+END
+OpFFTI32f4.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/radix2/OpFFTI32f4.java
+END
+OpFFTI16f4.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/radix2/OpFFTI16f4.java
+END
+OpFFTI64f4.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/radix2/OpFFTI64f4.java
+END
+OpFFT4f4.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/radix2/OpFFT4f4.java
+END
+OpFFTI32.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/radix2/OpFFTI32.java
+END
+OpFFTI16.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/radix2/OpFFTI16.java
+END
+OpFFT2.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/radix2/OpFFT2.java
+END
+OpFFT4.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/radix2/OpFFT4.java
+END
+OpFFTI4f4.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/radix2/OpFFTI4f4.java
+END
+OpFFT8.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/radix2/OpFFT8.java
+END
+OpFFTI2.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/radix2/OpFFTI2.java
+END
+OpFFTI4.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/radix2/OpFFTI4.java
+END
+OpFFT32f4.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/radix2/OpFFT32f4.java
+END
+OpFFT.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/radix2/OpFFT.java
+END
+OpFFTI8.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/radix2/OpFFTI8.java
+END
+OpFFT16f4.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/radix2/OpFFT16f4.java
+END
+OpFFT64f4.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/radix2/OpFFT64f4.java
+END
+BitReversal.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/radix2/BitReversal.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/101/trunk/JavaSpeechTools/src/uk/ac/bath/audio
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/JavaSpeechTools/src/uk/ac/bath/audio/Config.java
+END
+MySource.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/JavaSpeechTools/src/uk/ac/bath/audio/MySource.java
+END
+FFTWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/95/trunk/JavaSpeechTools/src/uk/ac/bath/audio/FFTWorker.java
+END
+AudioPeakMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/JavaSpeechTools/src/uk/ac/bath/audio/AudioPeakMonitor.java
+END
+CyclicSpectrumDataBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/JavaSpeechTools/src/uk/ac/bath/audio/CyclicSpectrumDataBuilder.java
+END
+CyclicSpectrogramDataListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/JavaSpeechTools/src/uk/ac/bath/audio/CyclicSpectrogramDataListener.java
+END
+FFTMagnitude.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/JavaSpeechTools/src/uk/ac/bath/audio/FFTMagnitude.java
+END
+AudioFlags.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/JavaSpeechTools/src/uk/ac/bath/audio/AudioFlags.java
+END
+CyclicSpectrogramImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/JavaSpeechTools/src/uk/ac/bath/audio/CyclicSpectrogramImage.java
+END
+CycliclyBufferedAudio.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/JavaSpeechTools/src/uk/ac/bath/audio/CycliclyBufferedAudio.java
+END
+Mapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/JavaSpeechTools/src/uk/ac/bath/audio/Mapper.java
+END

@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis
+END
+Lsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/Lsp.java
+END
+DecodeExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/DecodeExample.java
+END
+Drft.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/Drft.java
+END
+PsyLook.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/PsyLook.java
+END
+InfoMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/InfoMode.java
+END
+Floor0.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/Floor0.java
+END
+Floor1.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/Floor1.java
+END
+Comment.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/Comment.java
+END
+VorbisFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/VorbisFile.java
+END
+FuncMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/FuncMapping.java
+END
+JOrbisException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/JOrbisException.java
+END
+Lookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/Lookup.java
+END
+FuncTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/FuncTime.java
+END
+Mapping0.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/Mapping0.java
+END
+FuncResidue.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/FuncResidue.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/Util.java
+END
+Lpc.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/Lpc.java
+END
+Time0.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/Time0.java
+END
+Residue0.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/Residue0.java
+END
+Residue1.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/Residue1.java
+END
+Residue2.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/Residue2.java
+END
+CodeBook.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/CodeBook.java
+END
+Mdct.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/Mdct.java
+END
+DspState.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/DspState.java
+END
+PsyInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/PsyInfo.java
+END
+Block.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/Block.java
+END
+Info.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/Info.java
+END
+ChainingExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/ChainingExample.java
+END
+FuncFloor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/FuncFloor.java
+END
+StaticCodeBook.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/126/trunk/JavaSpeechTools/jorbis-0.0.17/com/jcraft/jorbis/StaticCodeBook.java
+END

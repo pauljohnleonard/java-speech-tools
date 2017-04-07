@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/core
+END
+SilentInputAudioProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/core/SilentInputAudioProcess.java
+END
+AudioProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/core/AudioProcess.java
+END
+AudioProcessAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/core/AudioProcessAdapter.java
+END
+AudioProcessChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/core/AudioProcessChain.java
+END
+KVolumeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/core/KVolumeUtils.java
+END
+AudioServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/core/AudioServices.java
+END
+Taps.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/core/Taps.java
+END
+SimpleAudioProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/core/SimpleAudioProcess.java
+END
+FloatDenormals.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/core/FloatDenormals.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/core/package.html
+END
+ChannelFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/core/ChannelFormat.java
+END
+AudioControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/core/AudioControls.java
+END
+AudioControlsChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/core/AudioControlsChain.java
+END
+AudioBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/core/AudioBuffer.java
+END
+NullAudioProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/core/NullAudioProcess.java
+END

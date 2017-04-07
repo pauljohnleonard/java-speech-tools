@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth
+END
+SynthChannelServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/SynthChannelServices.java
+END
+SynthChannelControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/SynthChannelControls.java
+END
+PolyphonicSynthChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/PolyphonicSynthChannel.java
+END
+ParaphonicSynthChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/ParaphonicSynthChannel.java
+END
+SynthRack.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/SynthRack.java
+END
+ControlChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/ControlChange.java
+END
+ChannelledSynthControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/ChannelledSynthControls.java
+END
+MidiSynth.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/MidiSynth.java
+END
+MonophonicSynthChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/MonophonicSynthChannel.java
+END
+SynthServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/SynthServices.java
+END
+SynthControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/SynthControls.java
+END
+BasicMidiSynth.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/BasicMidiSynth.java
+END
+SynthRackControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/SynthRackControls.java
+END
+SynthChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/SynthChannel.java
+END

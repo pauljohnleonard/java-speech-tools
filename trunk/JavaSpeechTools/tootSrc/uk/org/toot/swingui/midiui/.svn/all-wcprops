@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/midiui
+END
+MidiConnectionTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/midiui/MidiConnectionTable.java
+END
+MidiChannelCombo.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/midiui/MidiChannelCombo.java
+END
+MidiConnectionView.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/midiui/MidiConnectionView.java
+END
+GMDrumPopup.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/midiui/GMDrumPopup.java
+END
+MidiUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/midiui/MidiUI.java
+END
+MidiConnectionMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/midiui/MidiConnectionMap.java
+END
+MidiColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/midiui/MidiColor.java
+END
+MidiPortCombo.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/midiui/MidiPortCombo.java
+END

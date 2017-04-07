@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/fader
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/fader/package.html
+END
+FaderControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/fader/FaderControl.java
+END
+FaderLaw.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/fader/FaderLaw.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/uk/org/toot/swingui/audioui/serverui
+END
+JavaSoundAudioServerSetupPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/uk/org/toot/swingui/audioui/serverui/JavaSoundAudioServerSetupPanel.java
+END
+TootAudioServerUIServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/uk/org/toot/swingui/audioui/serverui/TootAudioServerUIServiceProvider.java
+END
+AudioServerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/uk/org/toot/swingui/audioui/serverui/AudioServerPanel.java
+END
+AbstractAudioServerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3/trunk/JavaSpeechTools/srcTootServers/uk/org/toot/swingui/audioui/serverui/AbstractAudioServerPanel.java
+END

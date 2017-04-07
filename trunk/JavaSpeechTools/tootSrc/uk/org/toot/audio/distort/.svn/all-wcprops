@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/distort
+END
+GuitarAmpControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/distort/GuitarAmpControls.java
+END
+Distort1Controls.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/distort/Distort1Controls.java
+END
+BitCrusherControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/distort/BitCrusherControls.java
+END
+DistortionIds.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/distort/DistortionIds.java
+END
+GuitarAmpProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/distort/GuitarAmpProcess.java
+END
+Distort1Process.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/distort/Distort1Process.java
+END
+BitCrusherProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/distort/BitCrusherProcess.java
+END
+DistortionServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio/distort/DistortionServiceProvider.java
+END

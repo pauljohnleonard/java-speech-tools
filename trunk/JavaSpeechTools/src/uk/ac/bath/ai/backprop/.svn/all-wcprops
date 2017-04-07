@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/38/trunk/JavaSpeechTools/src/uk/ac/bath/ai/backprop
+END
+BackProp.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/38/trunk/JavaSpeechTools/src/uk/ac/bath/ai/backprop/BackProp.java
+END
+TrainingData.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/JavaSpeechTools/src/uk/ac/bath/ai/backprop/TrainingData.java
+END
+FeedForwardIF.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6/trunk/JavaSpeechTools/src/uk/ac/bath/ai/backprop/FeedForwardIF.java
+END
+FeedForward.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/38/trunk/JavaSpeechTools/src/uk/ac/bath/ai/backprop/FeedForward.java
+END
+BackPropRecursive.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/38/trunk/JavaSpeechTools/src/uk/ac/bath/ai/backprop/BackPropRecursive.java
+END
+NNProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/25/trunk/JavaSpeechTools/src/uk/ac/bath/ai/backprop/NNProcess.java
+END

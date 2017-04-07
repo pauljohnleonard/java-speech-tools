@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/tonalityui
+END
+ChordChooserPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/tonalityui/ChordChooserPanel.java
+END
+ChordIdentifierPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/tonalityui/ChordIdentifierPanel.java
+END
+RootCombo.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/tonalityui/RootCombo.java
+END
+KeyList.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/tonalityui/KeyList.java
+END
+ScaleCombo.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/tonalityui/ScaleCombo.java
+END
+ModeChordsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/tonalityui/ModeChordsPanel.java
+END
+NoteField.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/tonalityui/NoteField.java
+END
+ChordList.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/tonalityui/ChordList.java
+END
+KeyChooserPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/tonalityui/KeyChooserPanel.java
+END

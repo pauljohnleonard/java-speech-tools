@@ -1,0 +1,129 @@
+10
+
+dir
+127
+http://java-speech-tools.googlecode.com/svn/trunk/JavaSpeechTools/tootSrc/uk/org/toot
+http://java-speech-tools.googlecode.com/svn
+
+
+
+2011-05-26T09:17:52.072218Z
+3
+pauljohnleonard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ffff117e-95ae-6785-15a6-27e6cfbe1957
+
+synth
+dir
+
+swingui
+dir
+
+dsp
+dir
+
+copy
+dir
+
+misc
+dir
+
+transport
+dir
+
+LICENSE_1_0.txt
+file
+
+
+
+
+2016-02-13T08:26:56.456351Z
+e64a2af7bac51d99759a34169b9ba6e4
+2011-05-26T09:17:52.072218Z
+3
+pauljohnleonard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1184
+
+control
+dir
+
+service
+dir
+
+music
+dir
+
+gpl.txt
+file
+
+
+
+
+2016-02-13T08:26:56.456351Z
+a17cb0a873d252440acfdf9b3d0e7fbf
+2011-05-26T09:17:52.072218Z
+3
+pauljohnleonard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17996
+
+audio
+dir
+
+midi
+dir
+

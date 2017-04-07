@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/dsp/filter
+END
+FIRDesignerPM.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/dsp/filter/FIRDesignerPM.java
+END
+OverSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/dsp/filter/OverSampler.java
+END
+FIROverSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/dsp/filter/FIROverSampler.java
+END
+FIRSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/dsp/filter/FIRSpecification.java
+END
+FIRTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/dsp/filter/FIRTools.java
+END
+FIROverSampler2.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/dsp/filter/FIROverSampler2.java
+END
+FIRDesignerKW.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/dsp/filter/FIRDesignerKW.java
+END
+OrfanidisBiQuadDesigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/dsp/filter/OrfanidisBiQuadDesigner.java
+END
+BiQuadDesigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/dsp/filter/BiQuadDesigner.java
+END
+BiQuadTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/dsp/filter/BiQuadTools.java
+END
+FilterShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/dsp/filter/FilterShape.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/service
+END
+ServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/service/ServiceProvider.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/service/package.html
+END
+ServiceDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/service/ServiceDescriptor.java
+END
+ServiceVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/service/ServiceVisitor.java
+END
+Services.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/service/Services.java
+END
+ServicePrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/service/ServicePrinter.java
+END

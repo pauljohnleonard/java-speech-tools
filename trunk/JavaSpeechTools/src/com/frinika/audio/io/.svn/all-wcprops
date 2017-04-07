@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/96/trunk/JavaSpeechTools/src/com/frinika/audio/io
+END
+AudioWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/96/trunk/JavaSpeechTools/src/com/frinika/audio/io/AudioWriter.java
+END
+BlockableAudioProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/96/trunk/JavaSpeechTools/src/com/frinika/audio/io/BlockableAudioProcess.java
+END
+BasicAudioWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/96/trunk/JavaSpeechTools/src/com/frinika/audio/io/BasicAudioWriter.java
+END
+BufferedRandomAccessFileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/96/trunk/JavaSpeechTools/src/com/frinika/audio/io/BufferedRandomAccessFileManager.java
+END
+RandomAccessFileIF.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/96/trunk/JavaSpeechTools/src/com/frinika/audio/io/RandomAccessFileIF.java
+END
+AudioWavReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/96/trunk/JavaSpeechTools/src/com/frinika/audio/io/AudioWavReader.java
+END
+AudioReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/96/trunk/JavaSpeechTools/src/com/frinika/audio/io/AudioReader.java
+END
+BufferedRandomAccessFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/96/trunk/JavaSpeechTools/src/com/frinika/audio/io/BufferedRandomAccessFile.java
+END
+VanillaRandomAccessFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/96/trunk/JavaSpeechTools/src/com/frinika/audio/io/VanillaRandomAccessFile.java
+END
+AudioReaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/96/trunk/JavaSpeechTools/src/com/frinika/audio/io/AudioReaderFactory.java
+END
+LimitedAudioReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/96/trunk/JavaSpeechTools/src/com/frinika/audio/io/LimitedAudioReader.java
+END

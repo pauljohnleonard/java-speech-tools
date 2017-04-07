@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/message
+END
+ChannelMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/message/ChannelMsg.java
+END
+CommonMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/message/CommonMsg.java
+END
+SysexMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/message/SysexMsg.java
+END
+MTC.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/message/MTC.java
+END
+TimeMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/message/TimeMsg.java
+END
+ShortMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/message/ShortMsg.java
+END
+RealTimeMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/message/RealTimeMsg.java
+END
+MidiMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/message/MidiMsg.java
+END
+UniversalSysexMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/message/UniversalSysexMsg.java
+END
+MachineControlMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/message/MachineControlMsg.java
+END
+NoteMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/message/NoteMsg.java
+END
+MetaMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/message/MetaMsg.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/message/package.html
+END
+PitchMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/midi/message/PitchMsg.java
+END

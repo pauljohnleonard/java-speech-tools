@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/116/trunk/JavaSpeechToolData/util
+END
+wma2wav
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/116/trunk/JavaSpeechToolData/util/wma2wav
+END
+split.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/116/trunk/JavaSpeechToolData/util/split.sh
+END
+wma2mp3
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/116/trunk/JavaSpeechToolData/util/wma2mp3
+END
+startOfWav.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/116/trunk/JavaSpeechToolData/util/startOfWav.sh
+END
+trimConsonants.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/116/trunk/JavaSpeechToolData/util/trimConsonants.sh
+END

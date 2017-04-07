@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/META-INF/services
+END
+uk.org.toot.audio.spi.AudioServiceProvider
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/META-INF/services/uk.org.toot.audio.spi.AudioServiceProvider
+END
+uk.org.toot.swingui.controlui.spi.ControlPanelServiceProvider
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/META-INF/services/uk.org.toot.swingui.controlui.spi.ControlPanelServiceProvider
+END
+uk.org.toot.synth.spi.SynthChannelServiceProvider
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/META-INF/services/uk.org.toot.synth.spi.SynthChannelServiceProvider
+END
+uk.org.toot.synth.spi.SynthServiceProvider
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/META-INF/services/uk.org.toot.synth.spi.SynthServiceProvider
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/audioui/meterui
+END
+KMeterIndicatorPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/audioui/meterui/KMeterIndicatorPanel.java
+END
+MeterPanelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/audioui/meterui/MeterPanelFactory.java
+END
+KMeterPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/audioui/meterui/KMeterPanel.java
+END
+GainReductionIndicatorPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/audioui/meterui/GainReductionIndicatorPanel.java
+END
+MeterOversPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/audioui/meterui/MeterOversPanel.java
+END
+AbstractMeterIndicatorPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/audioui/meterui/AbstractMeterIndicatorPanel.java
+END

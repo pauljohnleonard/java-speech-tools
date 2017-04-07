@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator
+END
+UnisonControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/UnisonControls.java
+END
+DSFOscillatorW.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/DSFOscillatorW.java
+END
+MultiWaves.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/MultiWaves.java
+END
+DSFOscillatorVariables.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/DSFOscillatorVariables.java
+END
+MultiWaveOscillatorVariables.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/MultiWaveOscillatorVariables.java
+END
+Wave.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/Wave.java
+END
+DualMultiWaveOscillatorControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/DualMultiWaveOscillatorControls.java
+END
+HammondOscillatorControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/HammondOscillatorControls.java
+END
+SawtoothOscillator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/SawtoothOscillator.java
+END
+SingleWave.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/SingleWave.java
+END
+OscillatorVariables.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/OscillatorVariables.java
+END
+UnisonVariables.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/UnisonVariables.java
+END
+LFOControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/LFOControls.java
+END
+SawtoothMultiWave.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/SawtoothMultiWave.java
+END
+LFOConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/LFOConfig.java
+END
+DualMultiWaveOscillatorVariables.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/DualMultiWaveOscillatorVariables.java
+END
+DSFOscillator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/DSFOscillator.java
+END
+HammondOscillatorVariables.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/HammondOscillatorVariables.java
+END
+LFOVariables.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/LFOVariables.java
+END
+MultiWaveOscillator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/MultiWaveOscillator.java
+END
+OscillatorIds.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/OscillatorIds.java
+END
+OscillatorControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/OscillatorControl.java
+END
+MultiWave.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/MultiWave.java
+END
+DSFOscillatorSS.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/DSFOscillatorSS.java
+END
+DualMultiWaveOscillator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/DualMultiWaveOscillator.java
+END
+HammondOscillator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/HammondOscillator.java
+END
+ParabolaMultiWave.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/ParabolaMultiWave.java
+END
+LFO.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/LFO.java
+END
+DSFOscillatorControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/DSFOscillatorControls.java
+END
+MultiWaveOscillatorControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/oscillator/MultiWaveOscillatorControls.java
+END

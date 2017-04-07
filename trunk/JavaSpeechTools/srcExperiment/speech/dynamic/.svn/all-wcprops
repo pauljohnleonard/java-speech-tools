@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/125/trunk/JavaSpeechTools/srcExperiment/speech/dynamic
+END
+TrainingData.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/125/trunk/JavaSpeechTools/srcExperiment/speech/dynamic/TrainingData.java
+END
+TrainNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/119/trunk/JavaSpeechTools/srcExperiment/speech/dynamic/TrainNetwork.java
+END
+MainDynamicApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/125/trunk/JavaSpeechTools/srcExperiment/speech/dynamic/MainDynamicApp.java
+END
+WavToFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/125/trunk/JavaSpeechTools/srcExperiment/speech/dynamic/WavToFeature.java
+END
+WavTrainingPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/125/trunk/JavaSpeechTools/srcExperiment/speech/dynamic/WavTrainingPool.java
+END

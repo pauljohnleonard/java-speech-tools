@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/controlui
+END
+ControlPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/controlui/ControlPanel.java
+END
+BooleanControlPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/controlui/BooleanControlPanel.java
+END
+ControlPanelServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/controlui/ControlPanelServices.java
+END
+SliderKnobIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/controlui/SliderKnobIcon.java
+END
+CompoundControlPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/controlui/CompoundControlPanel.java
+END
+EnumIndicatorPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/controlui/EnumIndicatorPanel.java
+END
+FloatIndicatorPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/controlui/FloatIndicatorPanel.java
+END
+ControlSlider.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/controlui/ControlSlider.java
+END
+EnumControlPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/controlui/EnumControlPanel.java
+END
+FloatControlPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/controlui/FloatControlPanel.java
+END
+PanelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/controlui/PanelFactory.java
+END
+ControlPanelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/controlui/ControlPanelFactory.java
+END
+ControlKnob.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/controlui/ControlKnob.java
+END
+SliderKnobColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/controlui/SliderKnobColor.java
+END
+BooleanIndicatorPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/controlui/BooleanIndicatorPanel.java
+END
+LawControlPresetMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/swingui/controlui/LawControlPresetMenu.java
+END

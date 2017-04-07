@@ -1,0 +1,113 @@
+10
+
+dir
+127
+http://java-speech-tools.googlecode.com/svn/trunk/JavaSpeechTools/tootSrc/uk/org/toot/audio
+http://java-speech-tools.googlecode.com/svn
+
+
+
+2011-05-26T09:17:52.072218Z
+3
+pauljohnleonard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ffff117e-95ae-6785-15a6-27e6cfbe1957
+
+fader
+dir
+
+basic
+dir
+
+mixer
+dir
+
+system
+dir
+
+filter
+dir
+
+reverb
+dir
+
+core
+dir
+
+distort
+dir
+
+spi
+dir
+
+id
+dir
+
+delay
+dir
+
+package.html
+file
+
+
+
+
+2016-02-13T08:26:51.968396Z
+b96ec01f00e4a6c4bda04dd6ede7245f
+2011-05-26T09:17:52.072218Z
+3
+pauljohnleonard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+480
+
+eq
+dir
+
+doc-files
+dir
+
+server
+dir
+
+dynamics
+dir
+
+meter
+dir
+
+tool
+dir
+

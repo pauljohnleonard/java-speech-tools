@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/filter
+END
+FilterVariables.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/filter/FilterVariables.java
+END
+HP1pFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/filter/HP1pFilter.java
+END
+StateVariableFilterControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/filter/StateVariableFilterControls.java
+END
+MoogFilterElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/filter/MoogFilterElement.java
+END
+LP1pFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/filter/LP1pFilter.java
+END
+StateVariableFilterVariables.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/filter/StateVariableFilterVariables.java
+END
+FilterIds.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/filter/FilterIds.java
+END
+DualStateVariableFilterControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/filter/DualStateVariableFilterControls.java
+END
+FilterControlIds.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/filter/FilterControlIds.java
+END
+FilterType.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/filter/FilterType.java
+END
+DualStateVariableFilterConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/filter/DualStateVariableFilterConfig.java
+END
+MoogFilter2.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/filter/MoogFilter2.java
+END
+LP1pHP1pControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/filter/LP1pHP1pControls.java
+END
+MoogFilterControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/filter/MoogFilterControls.java
+END
+DualStateVariableFilterVariables.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/filter/DualStateVariableFilterVariables.java
+END
+StateVariableFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/filter/StateVariableFilter.java
+END
+LP1pHP1pVariables.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/filter/LP1pHP1pVariables.java
+END
+FormantFilterControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/filter/FormantFilterControls.java
+END
+DualStateVariableFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/filter/DualStateVariableFilter.java
+END
+FormantFilterVariables.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/filter/FormantFilterVariables.java
+END
+StateVariableFilterElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/filter/StateVariableFilterElement.java
+END
+FilterControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/filter/FilterControls.java
+END
+AbstractFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/filter/AbstractFilter.java
+END
+DualStateVariableFilterElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/filter/DualStateVariableFilterElement.java
+END
+FormantFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/JavaSpeechTools/tootSrc/uk/org/toot/synth/modules/filter/FormantFilter.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/providers
+END
+ComplexSimpleRadix2.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/providers/ComplexSimpleRadix2.java
+END
+ComplexSimple2Radix2.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/providers/ComplexSimple2Radix2.java
+END
+RealToComplex.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/providers/RealToComplex.java
+END
+ComplexSimple3Radix2.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/providers/ComplexSimple3Radix2.java
+END
+ComplexToReal.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/providers/ComplexToReal.java
+END
+RealToComplex2.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/providers/RealToComplex2.java
+END
+ComplexToReal2.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/providers/ComplexToReal2.java
+END
+ComplexRadix2.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/providers/ComplexRadix2.java
+END
+ComplexDFT.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/providers/ComplexDFT.java
+END
+ComplexDFT2.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/JavaSpeechTools/rasmusDSPsrc/rasmus/fft/providers/ComplexDFT2.java
+END
